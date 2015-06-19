@@ -1,0 +1,21 @@
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\VK Api Tests.exe.config
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\VK Api Tests.exe
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\VK Api Tests.pdb
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests.csprojResolveAssemblyReference.cache
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK_Api_Tests.Properties.Resources.resources
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests.exe
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests.pdb
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\LoginWindow.g.cs
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests_MarkupCompile.cache
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests_MarkupCompile.lref
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\LoginWindow.baml
+c:\users\master\documents\visual studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\VK Api Tests.g.resources
+C:\Users\master\Documents\Visual Studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\NAudio.dll
+C:\Users\master\Documents\Visual Studio 2015\Projects\VK Api Tests\VK Api Tests\bin\Debug\NAudio.xml
+C:\Users\master\Documents\Visual Studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\CaptchaWindow.g.cs
+C:\Users\master\Documents\Visual Studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\CaptchaWindow.baml
+C:\Users\master\Documents\Visual Studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\PromptDialog.g.cs
+C:\Users\master\Documents\Visual Studio 2015\Projects\VK Api Tests\VK Api Tests\obj\Debug\PromptDialog.baml
